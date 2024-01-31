@@ -1,9 +1,8 @@
-![cover](https://github.com/AbramDorado/Personal-Portfolio/assets/91529243/d2804519-c2c5-4fc9-92ac-b9e1d8bf9808)# Personal Portfolio Website in React
+# Personal Portfolio Website in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/AbramDorado/Personal-Portfolio/assets/91529243/4ab7d875-e600-4906-a982-37baea7c60af">
-<!-- ![cover](https://github.com/AbramDorado/Personal-Portfolio/assets/91529243/4ab7d875-e600-4906-a982-37baea7c60af) -->
 
 Built using:
 

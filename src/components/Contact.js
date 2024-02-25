@@ -14,7 +14,7 @@ export const Contact = () => {
     email: 'doradobam@gmail.com',
     linkedIn: 'https://www.linkedin.com/in/abramdorado',
     github: 'https://www.github.com/AbramDorado',
-    resume: 'https://drive.google.com/file/d/1VGhJqfFF0Q9F4UT5P1Stijmmcak4aCo9/view',
+    resume: 'https://drive.google.com/drive/folders/1VCZRMu_ViVQ4AD-b9LCEEPQ7eVNdmRRI?usp=sharing',
     // Add other fields if needed
   };
 
